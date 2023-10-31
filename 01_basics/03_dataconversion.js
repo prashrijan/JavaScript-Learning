@@ -23,3 +23,19 @@ console.log(booleanIsLoggedIn)
 // 1 => true
 // "" => false
 // "prashrijan" => true
+
+console.log(1 + 2 + "3");
+
+let x = 3;
+let y = x++;
+
+console.log(y)
+console.log(x)
+
+
+let a = 3
+let b = --a;
+
+console.log(a);
+console.log(b);
+
